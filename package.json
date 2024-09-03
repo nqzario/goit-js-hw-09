@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/goit-js-hw-9/",
+    "build": "vite build --base=/goit-js-hw-09/",
     "preview": "vite preview",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
@@ -22,5 +22,5 @@
     "vite-plugin-full-reload": "^1.0.5",
     "vite-plugin-html-inject": "^1.0.1"
   },
-  "homepage": "https://nqzario.github.io/goit-js-hw-9/"
+  "homepage": "https://nqzario.github.io/goit-js-hw-09/"
 }
